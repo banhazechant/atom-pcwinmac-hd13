@@ -1,4 +1,4 @@
-# 
+# 智能 Atom 预设 Mac OS版 | 原生 Atom 预设 PC Windows版。集成 卷管理 和 动态模板，跨平台性能最大化。
 
 
 
